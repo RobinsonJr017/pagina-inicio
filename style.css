@@ -1,0 +1,51 @@
+header {
+    background: #1f2937;
+    width: 100%;
+    height: 80vh;
+}
+
+.container-nav p, a {
+    color: rgb(170, 170, 170);
+}
+
+.container-nav h1, h2{
+    color: aliceblue;
+}
+
+
+.barra {
+    padding:8px;
+    margin: 20px;
+}
+
+.nav {
+    display: flex;
+    margin-top: 15px;
+}
+
+
+.titulo {
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+a {
+    margin-left: 40px;
+}
+
+.container {
+    display: flex;
+}
+
+.container1 {
+    padding:8px;
+    margin: 50px;
+}
+
+.img0 {
+    margin-right: 180px;
+}
+
+
+
+
