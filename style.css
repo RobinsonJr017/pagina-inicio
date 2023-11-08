@@ -65,7 +65,11 @@ a {
     border: 3px solid #3888f6;
     box-shadow: 5px 5px 10px hsl(215, 28%, 17%);
     border-radius: 24px;
+    transition: transform .2s;
+}
 
+.imagenes img:hover {
+    transform: scale(1.1);
 }
 
 
