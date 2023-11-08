@@ -42,8 +42,30 @@ a {
     margin: 50px;
 }
 
-.img0 {
-    margin-right: 180px;
+.img0 img {
+    border: 3px solid #3888f6;
+    border-radius: 24px;
+    margin-right: 30px;
+    box-shadow: 5px 5px 10px hsl(215, 91%, 74%);
+}
+
+
+/*Seccion 1*/
+
+.contenedor-seccion1 {
+    text-align: center;
+}
+
+.imagenes  {
+    display: flex;
+    align-items: center;
+}
+
+.imagenes img {
+    border: 3px solid #3888f6;
+    box-shadow: 5px 5px 10px hsl(215, 28%, 17%);
+    border-radius: 24px;
+
 }
 
 
