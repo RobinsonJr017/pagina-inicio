@@ -1,7 +1,7 @@
 # pagina-inicio
 
-Pequeño projecto
+Pequeño proyecto
 
-Este projecto lo estoy realizando con el fin de practicar html y css, uso de posicionamiento de divs, cascada,etc.
+Estoy llevando a cabo este proyecto con el fin de practicar mis habilidades en HTML y CSS, centrándome en el posicionamiento de divs, el uso de la cascada, entre otros aspectos.
 
-Es un projecto sobre una pagina de inicio, de una pagina web sobre el mundo animal. 
+Se trata de un proyecto que involucra la creación de una página de inicio para un sitio web dedicado al mundo animal. gi
